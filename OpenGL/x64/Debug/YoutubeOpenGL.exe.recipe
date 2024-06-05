@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\91971\source\repos\opengl-tutorials\YoutubeOpenGL 13 - Model Loading\x64\Debug\YoutubeOpenGL.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\91971\source\repos\opengl-tutorials\YoutubeOpenGL 13 - Model Loading\shpere_bot\scene.gltf</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
